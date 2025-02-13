@@ -1,3 +1,12 @@
+# Project Architecture 
+![image](https://github.com/user-attachments/assets/196b9462-a092-41d5-8b8f-c8418047a8e7)
+
+
+
+
+
+
+
 # YouTube Data Analytics Project
 
 ## Overview
