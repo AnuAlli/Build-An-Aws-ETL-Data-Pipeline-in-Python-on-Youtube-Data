@@ -42,3 +42,23 @@ The project handles big data with:
 - Usage Guidelines
 - Contributing Guidelines
 - License Information 
+
+## Getting Started
+
+### Repository Setup
+1. Create a new repository on GitHub:
+   - Go to github.com
+   - Click "New repository"
+   - Name your repository (e.g., "youtube-data-analytics")
+   - Choose public/private
+   - Don't initialize with README (since we already have one)
+
+2. Initialize local repository and push to GitHub:
+   ```bash
+   git init
+   git add .
+   git commit -m "Initial commit"
+   git branch -M main
+   git remote add origin https://github.com/YOUR_GITHUB_USERNAME/REPOSITORY_NAME.git
+   git push -u origin main
+   ``` 
