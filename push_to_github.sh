@@ -19,7 +19,7 @@ git commit -m "Initial commit: AWS ETL Pipeline for YouTube Analytics" || echo "
 
 echo "Setting up remote origin..."
 git remote remove origin 2>/dev/null || echo "No remote origin to remove"
-git remote add origin git@github.com:AnuAlli/Build-An-Aws-ETL-Data-Pipeline-in-Python-on-Youtube-Data.git
+git remote add origin https://github.com/AnuAlli/Build-An-Aws-ETL-Data-Pipeline-in-Python-on-Youtube-Data.git
 
 echo "Pushing to GitHub..."
 git push -u origin main || git push -u origin master
